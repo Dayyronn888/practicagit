@@ -8,3 +8,4 @@ alcohol - https://dle.rae.es/alcohol?m=form
 fiesta - https://dle.rae.es/fiesta?m=form
 resaca - https://dle.rae.es/resaca?m=form
 coche - https://dle.rae.es/coche?m=form
+rueda - https://dle.rae.es/rueda?m=form
